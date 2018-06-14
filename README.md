@@ -49,6 +49,8 @@ All levels of masternode are activated and all levels of block reward are activa
 
 Official Website: https://nodecash.org
 
+Block Explorer: https://explorer.nodecash.org
+
 WhitePaper: https://nodecash.org/wp_en.pdf
 
 Twitter: @nodecash
