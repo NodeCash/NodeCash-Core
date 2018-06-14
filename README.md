@@ -34,6 +34,17 @@ The main idea behind NodeCash is not only to create a cryptocurrency but to esta
 |Bronze Masternode|2,000 NDH|20 NDH|
 |Staking|Block Reward: 5 NDH|-|
 
+To ensure smooth launch, the rewards of masternodes will increase linearly:
+
+**Block 1- 14400:**
+
+Only Silver masternode is activated, but they share the reward of GOLD mastetnode. Meaning that each block is generating 105 coins when mined, 100 goes to masternodes, 5 for stakers.
+Simple math, 1440 blocks are mined every day, 14,400 blocks for about 10 days. 151,200 coins are mined daily, 1,512,000 coins will be mined in total. So 1,512,000 coins will be shared between masternodes and stakers in the first 14,400 blocks.
+
+**Block > 14400:**
+
+All levels of masternode are activated and all levels of block reward are activated either. 
+
 ## Links
 
 Official Website: https://nodecash.org
